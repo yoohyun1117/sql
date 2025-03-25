@@ -1,3 +1,7 @@
+<img width="230" alt="image" src="https://github.com/user-attachments/assets/e3af2730-6f36-4643-90e7-7750a19106aa" />
+
+
+
 SELECT
 
 Col1 As new_name,
@@ -35,3 +39,7 @@ GROUP BY : 같은 값끼리 모아서 그룹화한다
 DISTINCT 
 
 여러 값 중에 Unique한 것만 보고 싶은 경우
+
+
+
+
