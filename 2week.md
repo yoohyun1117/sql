@@ -34,3 +34,5 @@
 3. 지표 탐색: 유사 문제 해결 사례나 기존 쿼리 참고
 4. 쿼리 작성
    - 데이터가 어느 테이블에 있는지 확인
+
+<img width="226" alt="image" src="https://github.com/user-attachments/assets/5c63550e-9ce5-4aae-8de1-88a622331253" />
